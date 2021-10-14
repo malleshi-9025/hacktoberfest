@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Malleshi Dongare](https://github.com/menakeobhasha/hacktoberfest)
+- Place: Dekatana, Colombo, Sri Lanka
+- Bio: Software Engineer @ Sana Commerce
+- GitHub: [malleshi](https://github.com/menakeobhasha)
